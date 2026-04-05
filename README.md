@@ -1,2 +1,2 @@
 # Projetos em python
-alguns projetos desenvolvidos em meus estudos de python
+sou um estudante que está aprendendo python, e esse são alguns projetos desenvolvidos em meus estudos
