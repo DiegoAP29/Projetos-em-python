@@ -1,6 +1,6 @@
-print('='*30)
-print('JOGO DA MEGA SENA')
-print('='*30)
+print('='*29)
+print('      JOGO DA MEGA SENA')
+print('='*29)
 lista=[]
 dados=[]
 x = int(input('Quantos jogos você quer sortear? '))
