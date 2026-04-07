@@ -1,2 +1,7 @@
 # Projetos em python
-sou um estudante que está aprendendo python, e esse são alguns projetos desenvolvidos em meus estudos
+Repositório com projetos desenvolvidos durante meus estudos de Python
+
+Projetos até o momento:
+    -Calculadora interativa
+    -Gerador de jogos da Mega-Sena
+    -Sistema de cardápio
